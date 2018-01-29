@@ -1,4 +1,5 @@
-# SocialBoard
+# Social Board
+A demo application consisting of a dashboard with social media metrics and a text box that directly posts to your Facebook, Twitter, and other social media platforms
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
 
